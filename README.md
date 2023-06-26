@@ -1,44 +1,75 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# PD_ExerciciosDupla15
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 15<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0058258  |  Henrique Galdino Couto |
+| 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste na resolução de x exercícos do site LeetCode.
 
+### LeetCode x - [xxx]()
+
+xxx<br>
+
+Código: [ACESSO](/codigos/.c)<br>
+
+### LeetCode x - [xxx]()
+
+xxx<br>
+
+Código: [ACESSO](/codigos/.c)<br>
+
+### LeetCode x - [xxx]()
+
+xxx<br>
+
+Código: [ACESSO](/codigos/.c)<br>
+
+### LeetCode x - [xxx]()
+
+xxx<br>
+
+Código: [ACESSO](/codigos/.c)<br>
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+LeetCode x - xxx<br>
+
+![image](/assets/.png)
+
+LeetCode x - xxx<br>
+
+![image](/assets/.png)
+
+LeetCode x - xxx<br>
+
+![image](/assets/.png)
+
+LeetCode x - xxx<br>
+
+![image](/assets/.png)
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C e C++<br>
+
+Não será necessária a instalação de programas.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+É necessário, na plataforma LeetCode, selecionar a linguagem correta (pode ser C ou C++ dependendo do problema escolhido).<br>
+
+Depois, copiar o código e colá-lo no editor de texto do LeetCode.<br>
+
+Agora, dê o comando "Run".
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+Arquivo do vídeo: [ACESSO]().
+
+Vídeo no Youtube: [ACESSO]().
 
 
 
