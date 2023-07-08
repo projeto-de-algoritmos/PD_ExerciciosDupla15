@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int countVowelStrings(int n) {
     int dp[n + 1][6];  // cria um array de pd
 
@@ -24,17 +22,4 @@ int countVowelStrings(int n) {
     }
 
     return totalCount;
-}
-
-int main() {
-    int n;
-    printf("Enter the length of the vowel string (n): ");
-    scanf("%d", &n);
-
-    // chama a funcao countVowelStrings para calcular o total de vogais para n:
-    int count = countVowelStrings(n);
-
-    printf("Count of sorted vowel strings of length %d: %d\n", n, count);
-
-    return 0;
 }
