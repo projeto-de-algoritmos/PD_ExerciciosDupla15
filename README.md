@@ -12,38 +12,43 @@
 ## Sobre 
 O projeto consiste na resolução de x exercícos do site LeetCode.
 
+### [MÉDIO] LeetCode 1493 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+
+
+Dado um array binário "nums", você deve excluir um elemento dele.
+
+Retorne o tamanho do subarray não vazio mais longo contendo apenas 1's no array resultante. Retorne 0 se não houver tal subarray.<br>
+
+Código: [ACESSO](/codigos/1493.c)<br>
+
+### [MÉDIO] LeetCode 1641 - [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
+
+Dado um número inteiro "n", retorne a quantidade de strings de comprimento "n" que consistem apenas de vogais (a, e, i, o, u) e estão ordenadas lexicograficamente.
+
+Uma string "s" está ordenada lexicograficamente se, para todos os valores válidos de "i", "s[i]" é o mesmo ou vem antes de "s[i+1]" no alfabeto.<br>
+
+Código: [ACESSO](/codigos/1641.c)<br>
+
 ### LeetCode x - [xxx]()
 
 xxx<br>
 
-Código: [ACESSO](/codigos/.c)<br>
+Código: [ACESSO](/codigos/.cpp)<br>
 
 ### LeetCode x - [xxx]()
 
 xxx<br>
 
-Código: [ACESSO](/codigos/.c)<br>
-
-### LeetCode x - [xxx]()
-
-xxx<br>
-
-Código: [ACESSO](/codigos/.c)<br>
-
-### LeetCode x - [xxx]()
-
-xxx<br>
-
-Código: [ACESSO](/codigos/.c)<br>
+Código: [ACESSO](/codigos/.cpp)<br>
 ## Screenshots
 
-LeetCode x - xxx<br>
+LeetCode 1493 - Longest Subarray of 1's After Deleting One Element<br>
 
-![image](/assets/.png)
+![image](/assets/1493.jpeg)
 
-LeetCode x - xxx<br>
+LeetCode 1641 - Count Sorted Vowel Strings<br>
 
-![image](/assets/.png)
+![image](/assets/1641.jpeg)
 
 LeetCode x - xxx<br>
 
