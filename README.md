@@ -45,19 +45,19 @@ Uma string "s" está ordenada lexicograficamente se, para todos os valores váli
 Código: [ACESSO](/codigos/1641.c)<br>
 ## Screenshots
 
-LeetCode 300 - Longest Increasing Subsequence<br>
+### LeetCode 300 - Longest Increasing Subsequence<br>
 
 ![image](/assets/300.png)
 
-LeetCode 1143 - Longest Common Subsequence<br>
+### LeetCode 1143 - Longest Common Subsequence<br>
 
 ![image](/assets/1143.png)
 
-LeetCode 1493 - Longest Subarray of 1's After Deleting One Element<br>
+### LeetCode 1493 - Longest Subarray of 1's After Deleting One Element<br>
 
 ![image](/assets/1493.jpeg)
 
-LeetCode 1641 - Count Sorted Vowel Strings<br>
+### LeetCode 1641 - Count Sorted Vowel Strings<br>
 
 ![image](/assets/1641.jpeg)
 ## Instalação 
