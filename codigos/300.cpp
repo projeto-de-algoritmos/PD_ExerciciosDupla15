@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lengthOfLIS(std::vector<int>& nums) {
+    int lengthOfLIS(vector<int>& nums) {
 
         int n = nums.size();
         vector<int> dp(n, 1);
