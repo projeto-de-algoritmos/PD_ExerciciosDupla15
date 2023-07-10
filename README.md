@@ -10,10 +10,25 @@
 | 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-O projeto consiste na resolução de x exercícos do site LeetCode.
+O projeto consiste na resolução de 4 exercícios do site LeetCode.
+
+### [MÉDIO] LeetCode 300 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+Dado um array de números inteiros "nums", retorne o comprimento da maior subsequência estritamente crescente.<br>
+
+Código: [ACESSO](/codigos/300.cpp)<br>
+
+### [MÉDIO] LeetCode 1143 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+Dadas duas strings, "text1" e "text2", retorne o comprimento da maior subsequência comum entre elas. Se não houver nenhuma subsequência comum, retorne 0.
+
+Uma subsequência de uma string é uma nova string gerada a partir da string original, na qual alguns caracteres (podendo ser nenhum) são deletados sem alterar a ordem relativa dos caracteres restantes. Por exemplo, "ace" é uma subsequência de "abcde".
+
+Uma subsequência comum entre duas strings é uma subsequência que é comum a ambas as strings.<br>
+
+Código: [ACESSO](/codigos/1143.cpp)<br>
 
 ### [MÉDIO] LeetCode 1493 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
-
 
 Dado um array binário "nums", você deve excluir um elemento dele.
 
@@ -28,19 +43,15 @@ Dado um número inteiro "n", retorne a quantidade de strings de comprimento "n" 
 Uma string "s" está ordenada lexicograficamente se, para todos os valores válidos de "i", "s[i]" é o mesmo ou vem antes de "s[i+1]" no alfabeto.<br>
 
 Código: [ACESSO](/codigos/1641.c)<br>
-
-### LeetCode x - [xxx]()
-
-xxx<br>
-
-Código: [ACESSO](/codigos/.cpp)<br>
-
-### LeetCode x - [xxx]()
-
-xxx<br>
-
-Código: [ACESSO](/codigos/.cpp)<br>
 ## Screenshots
+
+LeetCode 300 - Longest Increasing Subsequence<br>
+
+![image](/assets/300.png)
+
+LeetCode 1143 - Longest Common Subsequence<br>
+
+![image](/assets/1143.png)
 
 LeetCode 1493 - Longest Subarray of 1's After Deleting One Element<br>
 
@@ -49,14 +60,6 @@ LeetCode 1493 - Longest Subarray of 1's After Deleting One Element<br>
 LeetCode 1641 - Count Sorted Vowel Strings<br>
 
 ![image](/assets/1641.jpeg)
-
-LeetCode x - xxx<br>
-
-![image](/assets/.png)
-
-LeetCode x - xxx<br>
-
-![image](/assets/.png)
 ## Instalação 
 **Linguagem**: C e C++<br>
 
@@ -68,7 +71,7 @@ Não será necessária a instalação de programas.
 
 Depois, copiar o código e colá-lo no editor de texto do LeetCode.<br>
 
-Agora, dê o comando "Run".
+Por fim, dê o comando "Run".
 
 ## Outros 
 
