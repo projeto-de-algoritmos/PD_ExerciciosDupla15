@@ -75,7 +75,7 @@ Por fim, dê o comando "Run".
 
 ## Outros 
 
-Arquivo do vídeo: [ACESSO]().
+Arquivo do vídeo: [ACESSO](apresentacao-pd.mp4).
 
 Vídeo no Youtube: [ACESSO]().
 
