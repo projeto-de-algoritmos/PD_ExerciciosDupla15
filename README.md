@@ -77,7 +77,7 @@ Por fim, dê o comando "Run".
 
 Arquivo do vídeo: [ACESSO](apresentacao-pd.mp4).
 
-Vídeo no Youtube: [ACESSO]().
+Vídeo no Youtube: [ACESSO](https://youtu.be/U1DursI2JkQ).
 
 
 
